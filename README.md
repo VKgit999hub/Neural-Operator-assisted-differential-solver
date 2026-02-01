@@ -16,7 +16,7 @@ These approaches enable **mesh-independent**, **data-driven** solutions to compl
 ### Architecture
 The full architecture of the Fourier Neural Operator is shown below:
 
-![Fourier Neural Operators](fourier_full_arch5.png)
+![Fourier Neural Operators](plots/fourier_full_arch5.png)
 
 ---
 
@@ -25,35 +25,35 @@ The full architecture of the Fourier Neural Operator is shown below:
 ### Navier–Stokes Equation Results
 Simulation results obtained using FNO for the Navier–Stokes equations:
 
-![Navier–Stokes Results](nv_test_results.png)
+![Navier–Stokes Results](plots/nv_test_results.png)
 
 ---
 
 ### Flow Over a Dam
 **Time evolution of velocity profile** for flow over a dam:
 
-![Flow over Dam](u_velocity_simulation.gif)
+![Flow over Dam](plots/u_velocity_simulation.gif)
 
 ---
 
 ### Flow Inside a Tube
 **Time evolution of velocity profile** for flow inside a tube:
 
-![Flow Inside a Tube](u_velocity_simulation_tube_150.gif)
+![Flow Inside a Tube](plots/u_velocity_simulation_tube_150.gif)
 
 ---
 
 ### Lid-Driven Cavity Flow
 **Time evolution of velocity profile** in a cavity flow:
 
-![Flow in a Cavity](u_velocity_simulation_cav_150.gif)
+![Flow in a Cavity](plots/u_velocity_simulation_cav_150.gif)
 
 ---
 
 ### Vorticity Formulation (Navier–Stokes)
 Solution of the **vorticity formulation** of the Navier–Stokes equations:
 
-![Vortex Flow](pino-re500.gif)
+![Vortex Flow](plots/pino-re500.gif)
 
 ---
 
@@ -62,7 +62,7 @@ Solution of the **vorticity formulation** of the Navier–Stokes equations:
 ### Shallow Water Equations on a Sphere
 Results using **SFNO** for the **Spherical Shallow Water Equations (SSWE)**:
 
-![Shallow Waters](sswe.png)
+![Shallow Waters](plots/sswe.png)
 
 ---
 
@@ -71,7 +71,7 @@ Results using **SFNO** for the **Spherical Shallow Water Equations (SSWE)**:
 ### Pressure Field Prediction over Car Geometry
 Predicted pressure field over a car geometry using neural operator-based models:
 
-![Pressure Field Prediction](pressure_mesh_pred.jpg)
+![Pressure Field Prediction](plots/pressure_mesh_pred.jpg)
 
 ---
 
